@@ -1,0 +1,161 @@
+.header {
+    display: flex;
+    justify-content: space-around;
+    background-color: #1f2937;
+    padding: 50px;
+}
+
+.main {
+    font-size: 25px;
+    font-weight: bold;
+    color: #f9faf8;
+    font-family: Arial, Helvetica, Georgia;
+    margin-bottom: 0px;
+}
+
+.links {
+    display: flex;
+    column-gap: 16px;
+    align-items: center;
+}
+
+a.link:hover {
+    color: gray;
+}
+
+.link {
+    font-size: 18px;
+    text-decoration: none;
+    color: #e5e7eb
+}
+
+.page1 {
+    display: flex;
+    padding-top: 50px;
+    padding-bottom: 100px;
+    justify-content: space-evenly;
+    align-items: center;
+    background-color: #1f2937;
+}
+
+.text_page1 {
+    align-self: flex-start;
+    display: flex;
+    flex-direction: column;
+    width: 460px;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+
+.headings {
+    font-size: 48px;
+    font-weight: 900;
+    color: #f9faf8;
+}
+
+
+.img_1 {
+    width: 450px;
+    height: 250px;
+}
+
+.quote {
+    align-self: flex-start;
+    background-color: #2882f6;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border-radius: 5px;
+    font-size: 20px;
+    color: #e5e7eb;
+    text-decoration: none;
+}
+
+a.quote:hover {
+    color: skyblue;
+}
+
+.h1 {
+    padding: 20px;
+    text-align: center;
+    font-size: 36px;
+    font-weight: 1000;
+    color: #1f2937;
+}
+
+#image_sec {
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+    padding-bottom: 75px;
+}
+
+.img_sec {
+    width: 190px;
+}
+
+.img_2 {
+    width: 190px;
+    height: 190px;
+    border-radius: 20px;
+    border: solid #3882f6;
+}
+
+.image_text {
+    color: #1f2937;
+    text-align: center;
+}
+#quotepage {
+    background-color: #e5e7eb;
+    display: flex;
+    flex-direction: column;
+    padding: 100px;
+    padding-left: 300px;
+    padding-right: 300px;
+}
+
+.actual {
+    background-color: #e5e7eb;
+    font-size: 36px;
+    font-style: italic;
+    font-weight: 100;
+    letter-spacing: 0.2px;
+    align-self: center;
+    margin: 0;
+}
+
+.person {
+    align-self: flex-end;
+    color: black;
+    margin: 0;
+}
+
+.signup {
+    display: flex;
+    margin: 100px;
+    margin-left: 200px;
+    margin-right: 200px;
+    background-color: #2882f6;
+    border-radius: 10px;
+    justify-content: space-around;
+    align-items: center;
+}
+
+#sgup {
+    border: solid 2px white;
+    font-weight: 600;
+    color: white;
+    align-self: center;
+}
+
+.sgup_text {
+    color: white;
+    margin: 0px;
+    margin-bottom: 40px;
+
+}
+
+#page_4 {
+    padding: 10px;
+}

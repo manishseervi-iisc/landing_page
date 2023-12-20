@@ -1,0 +1,1 @@
+creating my first styled webpage, ik i'm gonna make a lot of mistakes but first time so okie okie, gonna complete this someday
